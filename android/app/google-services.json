@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "115131145849",
+    "project_id": "elibrary-c782f",
+    "storage_bucket": "elibrary-c782f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115131145849:android:112e237b0997488bbabea8",
+        "android_client_info": {
+          "package_name": "com.elibrary.bangis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "115131145849-5teabaa4idk8mlppnfmlr4r6uf1mmgmf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.elibrary.bangis",
+            "certificate_hash": "c4c22393ddcefdd5ad2018a9ca4fa812b2ff2879"
+          }
+        },
+        {
+          "client_id": "115131145849-ent23m4dbsaimh7ceo04mhn9bau4d3us.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl0f5OEO9YnEZZmcnRd4ATADC_b5GW01E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "115131145849-ent23m4dbsaimh7ceo04mhn9bau4d3us.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
